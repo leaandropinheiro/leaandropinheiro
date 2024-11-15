@@ -1,6 +1,6 @@
 <h3  align="left">E ai, bão ?</h3>
 <p align="left">
-  Estudante de Engenharia de Software na Universidade da Região de Joinville e Desenvolvedor Front-end Júnior.
+  Sou desenvolvedor front-end com quase dois anos de experiência atuando com ferramentas como Vue.js, Node.js, JavaScript e TypeScript.
 </p>
 
 <p>
